@@ -98,4 +98,5 @@ predict_sentiment("This movie was absolutely fantastic, great acting and story!"
 ## Author
 
 **Rajan Garudkar**
-Engineering student focused on software development, machine learning, and fintech.
+
+
